@@ -5,10 +5,10 @@ setup(
     version='1.0.2',
     author='SAPO',
     author_email='eduardo.pinto@gmail.com',
-    description='A Python client for the Vsports API',
+    description='A Python client for the VSports API',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/poingg/vsports',
+    url='https://github.com/sapo/vsports',
     packages=find_packages(),
     install_requires=[
         'requests',
