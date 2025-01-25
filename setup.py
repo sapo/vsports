@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='vsports',
-    version='1.0.1',
+    version='1.0.2',
     author='SAPO',
     author_email='eduardo.pinto@gmail.com',
     description='A Python client for the Vsports API',
